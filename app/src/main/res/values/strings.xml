@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">SqliteDemo</string>
+    <string name="str_add">Add</string>
+    <string name="str_count">Count</string>
+    <string name="str_delete">Delete</string>
+    <string name="str_hint_note">Note</string>
+    <string name="str_hint_time">Time</string>
+
 </resources>
